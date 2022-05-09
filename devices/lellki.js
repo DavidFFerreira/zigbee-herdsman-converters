@@ -11,7 +11,7 @@ module.exports = [
     {
         fingerprint: [{modelID: 'TS011F', manufacturerName: '_TZ3000_air9m6af'}, {modelID: 'TS011F', manufacturerName: '_TZ3000_9djocypn'}],
         zigbeeModel: ['JZ-ZB-005'],
-        model: 'WP33-EU',
+        model: 'WP33-EU/WP34-EU',
         vendor: 'LELLKI',
         description: 'Multiprise with 4 AC outlets and 2 USB super charging ports (16A)',
         extend: extend.switch(),
